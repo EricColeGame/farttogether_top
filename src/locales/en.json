@@ -6,7 +6,45 @@
     "description": "Your ultimate Fart Together guide! Explore physics-based co-op gameplay, raft controls, multiplayer tips, system requirements, demo details, and release information.",
     "legalNotice": "Non-official Fart Together fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "modes": "Modes",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "pricing": "Pricing",
+    "media": "Media",
+    "community": "Community",
+    "toggleTheme": "Toggle theme"
+  },
+  "guide": {
+    "overviewTitle": "Fart Together Guide",
+    "overviewDescription": "Start playing Fart Together with beginner setup, controls, demo access, remote play, and co-op guides for solo practice and shared-raft multiplayer."
+  },
+  "modes": {
+    "overviewTitle": "Fart Together Modes",
+    "overviewDescription": "Compare Fart Together local co-op and online multiplayer modes, player counts, crossplay availability, and the best ways to play with friends."
+  },
+  "mechanics": {
+    "overviewTitle": "Fart Together Mechanics",
+    "overviewDescription": "Learn Fart Together raft controls, fart propulsion, parkour timing, finish-line routes, and the physics systems behind every co-op run."
+  },
+  "platforms": {
+    "overviewTitle": "Fart Together Platforms",
+    "overviewDescription": "Find where to play Fart Together across Steam, PC, mobile, iOS, Android, and PS5, with platform-specific controls and compatibility details."
+  },
+  "pricing": {
+    "overviewTitle": "Fart Together Pricing",
+    "overviewDescription": "Check Fart Together pricing, free demo availability, Steam editions, release timing, and system requirements before downloading the game."
+  },
+  "media": {
+    "overviewTitle": "Fart Together Media",
+    "overviewDescription": "Watch Fart Together trailers, demo gameplay, co-op highlights, and speedrun runs while learning what the physics chaos looks like in action."
+  },
+  "community": {
+    "overviewTitle": "Fart Together Community",
+    "overviewDescription": "Join Fart Together community spaces on Discord, Reddit, Twitch, and YouTube to share runs, find players, and follow official updates."
+  },
   "home": {
     "meta": {
       "title": "Fart Together Wiki - Gameplay, Controls & Guides",

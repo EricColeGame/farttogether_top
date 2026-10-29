@@ -1,0 +1,84 @@
+export const metadata = {
+  title: "Fart Together: How to Reach the Finish Line With a Synced Raft Crew",
+  description: "Learn how to reach the finish line in Fart Together by syncing direction, timing, and gas power with your crew. Practical co-op tips for every course.",
+  category: "mechanics",
+  date: "2026-10-29",
+}
+
+## The One Rule That Gets You to the Finish Line
+
+In *Fart Together*, reaching the finish line is not about producing the biggest burst of gas — it's about producing the right burst at the right moment, together. The [official Fart Together page on Steam](https://store.steampowered.com/app/5117550/Fart_Together/) states the core loop plainly: 2–4 players share one raft, and every player's fart applies force, direction, and timing to that shared raft. Because the raft is a single physics object, one player acting late or sideways drags the whole team off course. The finish line is a coordination problem disguised as a comedy game.
+
+That distinction matters because most failed runs aren't caused by bad physics. They're caused by four people pushing a shared object in four slightly different directions at four slightly different times. Fix the coordination, and the courses become solvable.
+
+## What the Raft Actually Responds To
+
+Before you can steer, you need to understand what the game is reading from your inputs. According to the developer's own description, the raft reacts to three things from each player:
+
+- **Force** — how much push a fart delivers to the raft
+- **Direction** — which way that push is angled relative to the raft and the course
+- **Timing** — when the push lands relative to everyone else's
+
+GamesMrkt describes the simulation as "sort of realistic" and openly admits it isn't a faithful physics model. That's actually useful information: don't try to reason like a naval architect. Treat the raft as a wobbly object that responds strongly to synchronized input and chaotically to scattered input.
+
+One honest limitation up front: the Steam listing does not publish a detailed control scheme, so exact button behavior and charge mechanics aren't something we can confirm from first-party material. Confirm the specifics in the free demo before your group commits to a strategy.
+
+## A Step-by-Step Approach to Any Course
+
+The following routine is built from the coordination principles the developer describes, not from invented mechanics. It works because it reduces the number of decisions your team makes while the raft is already moving.
+
+1. **Assign a caller before the run starts.** One player counts the beat. Everyone else follows the count instead of their own instincts. This is the single highest-value change most groups can make.
+2. **Read the course while stationary.** Identify the narrow passage, the sharp turn, and any moving obstacle before anyone fires. The Steam page confirms all three hazard types appear.
+3. **Decide the plan out loud in one sentence.** "Two small pushes right, then everyone together." Short plans survive contact with physics; long ones don't.
+4. **Use small corrections early, not big ones late.** A slight adjustment at the start of an approach costs almost nothing. A panicked correction mid-turn usually ends the run.
+5. **Reset the count after every hazard.** Momentum carries over, and so does panic. A fresh countdown re-syncs the group.
+6. **Stop pushing when you're pointed correctly.** Extra gas when you're already lined up adds drift, not speed.
+
+## Handling Turns, Narrow Passages, and Moving Obstacles
+
+The developer's description names the exact obstacles you'll face and hints at the correct response for each. Narrow passages, sharp turns, moving obstacles, and hazards that throw the raft off balance all punish the same mistake: acting on individual instinct.
+
+**Sharp turns.** These demand the whole team commit to the same rotational push. If two players fire one way and two fire the other, the raft fights itself and you lose the line. Agree on the turn direction before you reach it.
+
+**Narrow passages.** Precision beats power. The developer notes that sometimes you need to speed up and sometimes you need to slow down — a narrow gap is the classic slow-down moment. Coasting through on existing momentum is usually safer than adding thrust inside a tight space.
+
+**Moving obstacles.** Timing, not aim, is the variable. Wait for the gap, then fire together. Splitting your pushes across the obstacle's cycle is how rafts end up off balance.
+
+**Off-balance hazards.** These are recovery tests. When the raft is already tilted or spinning, a big synchronized push often makes it worse. Small, matched inputs restore stability faster.
+
+## Troubleshooting the Most Common Finish-Line Failures
+
+The game's own store page warns that it "may test your friendships," and the failure modes it describes are consistent: one player going the wrong way, reacting too late, or firing at the wrong moment. Here's how to diagnose which one is costing you runs.
+
+| What you're seeing | Likely cause | What to try |
+| --- | --- | --- |
+| Raft drifts sideways constantly | Players pushing on mismatched angles | Nominate one player to set direction; others match it |
+| Overshooting the turn | Team kept firing after alignment | Stop thrusting once pointed correctly |
+| Getting stuck in narrow gaps | Too much force inside the passage | Reduce power, use momentum, small corrections only |
+| Chaos near moving obstacles | Pushes spread across the obstacle cycle | Wait for the gap, then fire on one count |
+| Someone always "did nothing" | No shared count or caller | Assign a caller and use a verbal countdown every time |
+
+Notice that none of these fixes require new information about the game's internals. They're all about removing disagreement from the input stream.
+
+## Why the Early Access Label Matters for Your Strategy
+
+*Fart Together* is scheduled to launch into Early Access on October 29, 2026, and GamesMrkt expects that phase to last roughly two to three months. The developer has said it plans to add more courses, obstacles, game modes, characters, and customization, while rebalancing difficulty and controls based on player feedback.
+
+Practically, that means any course-specific route you perfect now could shift. The coordination principles above are the stable part — force, direction, and timing will still be the inputs even if the courses change. If you find a strategy that works, the Steam discussion boards and the developer's Discord are where GamesMrkt says it collects feedback, so that's the place to share it.
+
+## FAQ
+
+**How do you reach the finish line in Fart Together?**
+You reach the finish line by synchronizing your team's farts — matching direction, timing, and gas power — rather than maximizing any single player's output. The raft is shared, so the goal is a clean, unified push through each obstacle instead of four competing ones.
+
+**How many players do you need?**
+The game supports 2–4 players in online co-op. Every player's input affects the same raft, so a two-player crew has fewer voices to sync but less total control authority.
+
+**Is farting harder ever the right move?**
+The developer explicitly says the secret "isn't farting harder" but farting together at the right time. There are moments where you need to speed up, but those are course-reading decisions, not power decisions.
+
+**Can I practice before buying?**
+Yes. A free demo of *Fart Together* is available on the game's Steam page, which is the best way to confirm the current control scheme and course layout before your group builds a plan around it.
+
+**Does one mistake really ruin a run?**
+According to the store page, yes — a single player reacting late or firing at the wrong moment can send the whole raft off course, while a well-timed team maneuver can save a run at the last second.
