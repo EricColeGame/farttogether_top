@@ -7,6 +7,8 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  demoUrl?: string;
+  communityUrl?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,8 +27,10 @@ export const siteConfig: SiteConfig = {
   tagline: "Physics-Based Co-op Party Game Guides",
   description: "Your ultimate Fart Together guide! Explore physics-based co-op gameplay, raft controls, multiplayer tips, system requirements, demo details, and release information.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://farttogether.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://farttogether.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@farttogether.top",
   gameUrl: "https://store.steampowered.com/app/5117550/Fart_Together/",
+  demoUrl: "https://store.steampowered.com/app/5208630/Fart_Together_Demo/",
+  communityUrl: "https://steamcommunity.com/app/5117550/",
   heroVideoId: "N6aVfoC7Dss", // Fart Together official demo trailer by GamesMrkt
   social: {
     youtube: "https://www.youtube.com/@GamesMrkt",

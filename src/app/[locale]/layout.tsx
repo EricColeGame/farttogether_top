@@ -24,11 +24,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Fart Together Wiki - Gameplay, Controls & Guides", template: "%s" },
+    title: { default: "Fart Together Wiki", template: "%s" },
     description: "Explore Fart Together gameplay, multiplayer tips, controls, system requirements, demo reviews, release information, and beginner guides for playing with friends.",
     manifest: "/manifest.json",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Fart Together Wiki", description: "Explore Fart Together gameplay, multiplayer tips, controls, system requirements, demo reviews, release information, and beginner guides for playing with friends.", images: [{ url: image, alt: "Fart Together key art" }] },
+    twitter: { card: "summary_large_image", title: "Fart Together Wiki", description: "Fart Together gameplay, multiplayer tips, controls, system requirements, demo details, and release information.", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -45,6 +45,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
+    sameAs: [siteConfig.gameUrl, siteConfig.communityUrl, siteConfig.social?.youtube].filter((url): url is string => Boolean(url)),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
