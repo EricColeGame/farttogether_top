@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Fart Together Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Set up a stable connection, grab the free demo, choose keyboard or controller input, and learn how 2–4 players share one raft."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Play",
+          "description": "Coordinate direction, timing, and gas power as your team steers a shared raft through physics-based obstacle courses."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Online Multiplayer",
+          "description": "Understand confirmed 2–4 player online co-op, connection requirements, and why synchronized input matters more than force."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Fart Mechanics",
+          "description": "Turn chaotic gas bursts into controlled propulsion by syncing thrust, easing speed, and calling the timing together."
         }
       ]
     },
@@ -62,237 +62,279 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Multiplayer",
+        "Platforms",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "href": "/guide/fart-together-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "How 2–4 players share one raft and coordinate every run.",
+          "href": "/modes/fart-together-online-multiplayer"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Fart Mechanics",
+          "description": "Turn direction, timing, and gas output into controlled raft movement.",
+          "href": "/mechanics/fart-together-fart-mechanics"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Course Strategy",
+          "description": "Handle narrow passages, moving hazards, and finish-line timing.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Parkour Physics",
+          "description": "Understand why raft steering is the real obstacle-course challenge.",
+          "href": "/mechanics/fart-together-parkour"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "PC Requirements",
+          "description": "Check minimum specs, recommended hardware, storage, and DirectX 11.",
+          "href": "/pricing/fart-together-system-requirements"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Online Co-op",
+          "description": "Review the confirmed 2–4 player setup and connection requirements.",
+          "href": "/modes/fart-together-online-multiplayer"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Demo Guide",
+          "description": "Install the free Steam demo and practice with your crew.",
+          "href": "/guide/fart-together-demo-guide"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Release Details",
+          "description": "Track Early Access launch timing and planned full-release content.",
+          "href": "/pricing/fart-together-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Fart Together?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Fart Together is a physics-based co-op party game from GamesMrkt. Two to four players occupy one shared raft and use fart power to steer it through obstacle courses filled with narrow passages, sharp turns, and moving hazards. The challenge is coordination: every input changes force, direction, and timing for the whole crew.",
+        "This wiki organizes the game's confirmed systems and early-access launch information into practical guides. Learn how to set up a crew, master shared raft control, choose the right input method, and prepare for the free demo and Steam Early Access release."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "GamesMrkt"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows PC"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Physics Co-op"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2–4"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "Online"
         },
         {
           "label": "Total Skills",
-          "value": "130+"
+          "value": "Oct 29, 2026"
         },
         {
           "label": "Level Cap",
-          "value": "100"
+          "value": "Early Access"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Fart Together Wiki",
+      "description": "Start with the beginner path, then master shared raft physics, online co-op, courses, platform details, demo access, and Early Access release information.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Fart Together Beginner Guide",
+          "description": "Compare the free Steam demo with Early Access, track the confirmed launch date, and understand what is planned for the full version.",
+          "href": "/guide/fart-together-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Download the free demo and confirm your stable broadband connection."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Assign keyboard or controller input and agree on a timing caller."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Practice synchronized thrust before accelerating through tight sections."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Fart Together How to Play",
+          "description": "Learn the full co-op loop, from crew setup and input selection to speed control, shared direction, and recovery after a mistimed blast.",
+          "href": "/guide/fart-together-how-to-play",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Form a 2–4 player online co-op crew and join voice chat."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Choose the keyboard-only mode or an Xbox or PlayStation controller."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Coordinate gas power, slow down before sharp turns, and treat every input as a team decision."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Fart Together Skill Levels",
+          "description": "Rank the habits that separate smooth raft crews from chaotic runs, from synchronized timing and course calls to platform setup.",
+          "href": "/mechanics/fart-together-fart-mechanics",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Synchronized gas output — simultaneous inputs keep the shared raft on line"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Clear communication — one caller reduces late reactions in narrow passages"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Speed control — knowing when to ease off prevents overshoots"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Raw power — maximum gas cannot replace timing or teamwork"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Fart Together Courses",
+          "description": "Explore obstacle-course strategy for shared raft movement, including narrow passages, moving hazards, finish-line timing, and speedrunning routes.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Hazards",
+              "detail": "Moving obstacles can throw the raft off balance and punish late reactions."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Lines",
+              "detail": "Agree on forward direction before entering narrow passages or sharp turns."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Finish",
+              "detail": "Sync the final maneuver instead of arguing over a last-second save."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Fart Together Platforms",
+          "description": "Review the confirmed Windows PC setup, online multiplayer requirements, controller support, and what the Steam listing says about crossplay.",
+          "href": "/modes/fart-together-crossplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Platform",
+              "detail": "The game is distributed through Steam for Windows PC."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Inputs",
+              "detail": "Keyboard-only mode plus Xbox and PlayStation controllers are listed as supported."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Online",
+              "detail": "Online co-op requires a stable internet connection; crossplay is not confirmed."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Fart Together System Requirements",
+          "description": "Check minimum and recommended PC specifications, storage, DirectX, memory, and the broadband requirement for online co-op.",
+          "href": "/pricing/fart-together-system-requirements",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Minimum",
+              "detail": "Core i5-8400 or Ryzen 3 1200, 8 GB RAM, GTX 1050 Ti or RX 560."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Optimal",
+              "detail": "Core i5-10400 or Ryzen 5 3600, 16 GB RAM, GTX 1660 or RX 590."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Storage",
+              "detail": "Reserve 4 GB, install DirectX 11, and keep a stable broadband connection for co-op."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fart Together Demo and Release",
+          "description": "Compare the free Steam demo with Early Access, track the confirmed launch date, and understand what is planned for the full version.",
+          "href": "/pricing/fart-together-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Free download — released October 8, 2026"
+            },
+            {
+              "label": "Early Access",
+              "detail": "Listed for October 29, 2026"
+            },
+            {
+              "label": "Full Version",
+              "detail": "More courses, modes, characters, and customization planned"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fart Together Local Co-op",
+          "description": "See what the Steam listing confirms about online co-op, split-screen, local play, and additional modes that GamesMrkt may add during Early Access.",
+          "href": "/modes/fart-together-local-coop",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Confirmed",
+              "detail": "Online co-op is the advertised mode for 2–4 players."
+            },
+            {
+              "label": "Local Play",
+              "detail": "No split-screen or shared-screen option is mentioned on Steam."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "The developer may add more modes and content during Early Access."
             }
           ]
         }
@@ -300,27 +342,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Fart Together.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Fart Together?",
+          "answer": "Fart Together is a physics-based online co-op party game by GamesMrkt. Two to four players steer one shared raft with fart power through obstacle courses, coordinating direction, timing, and gas output."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many players can play Fart Together?",
+          "answer": "The Steam listing advertises online co-op for 2–4 players. Every player's input affects the same raft, so communication and synchronized timing are central to the experience."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which platforms support Fart Together?",
+          "answer": "The verified platform is Windows PC through Steam. Keyboard-only input and Xbox or PlayStation controllers are listed, while crossplay and console versions are not confirmed."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "When does Fart Together launch?",
+          "answer": "Fart Together is listed for Steam Early Access release on October 29, 2026. A free demo became available on Steam on October 8, 2026."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Fart Together have local co-op?",
+          "answer": "The Steam listing advertises online co-op and does not mention split-screen or shared-screen local play. Additional courses, modes, characters, and customization are planned for the full release."
         }
       ]
     },
