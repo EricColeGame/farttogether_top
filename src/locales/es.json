@@ -109,12 +109,12 @@
         {
           "badge": "Principiante",
           "title": "Guía para principiantes",
-          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar los conceptos básicos del combate y la progresión.",
+          "description": "Configura tu grupo, comparte los controles de la balsa y aprende los conceptos básicos de la dirección cooperativa.",
           "href": "/guide/fart-together-beginner-guide"
         },
         {
           "badge": "Actualizado",
-          "title": "Códigos activos",
+          "title": "Multijugador en línea",
           "description": "Cómo 2 a 4 jugadores comparten una balsa y coordinan cada carrera.",
           "href": "/modes/fart-together-online-multiplayer"
         },
@@ -182,19 +182,19 @@
           "value": "Cooperativa de física"
         },
         {
-          "label": "Visitas",
+          "label": "Jugadores",
           "value": "2–4"
         },
         {
-          "label": "Favoritos",
+          "label": "Modo",
           "value": "En línea"
         },
         {
-          "label": "Habilidades totales",
+          "label": "Lanzamiento anunciado",
           "value": "29 de octubre de 2026"
         },
         {
-          "label": "Límite de nivel",
+          "label": "Fase de lanzamiento",
           "value": "Acceso temprano"
         }
       ],

@@ -109,12 +109,12 @@
         {
           "badge": "Anfänger",
           "title": "Anfängerleitfaden",
-          "description": "Alles, was Sie brauchen, von der ersten Anmeldung bis zur Beherrschung der Grundlagen des Kampfes und des Fortschritts.",
+          "description": "Richtet eure Gruppe ein, teilt euch die Floßsteuerung und lernt die Grundlagen des gemeinsamen Steuerns.",
           "href": "/guide/fart-together-beginner-guide"
         },
         {
           "badge": "Aktualisiert",
-          "title": "Aktive Codes",
+          "title": "Online-Mehrspieler",
           "description": "Wie sich 2–4 Spieler ein Floß teilen und jeden Lauf koordinieren.",
           "href": "/modes/fart-together-online-multiplayer"
         },
@@ -182,19 +182,19 @@
           "value": "Physik-Genossenschaft"
         },
         {
-          "label": "Besuche",
+          "label": "Spieler",
           "value": "2–4"
         },
         {
-          "label": "Favoriten",
+          "label": "Modus",
           "value": "Online"
         },
         {
-          "label": "Gesamtkompetenzen",
+          "label": "Angekündigter Start",
           "value": "29. Okt. 2026"
         },
         {
-          "label": "Level-Cap",
+          "label": "Veröffentlichungsphase",
           "value": "Früher Zugriff"
         }
       ],

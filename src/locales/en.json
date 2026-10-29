@@ -109,12 +109,12 @@
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
+          "description": "Set up your crew, share raft controls, and learn the basics of cooperative steering.",
           "href": "/guide/fart-together-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
+          "title": "Online Multiplayer",
           "description": "How 2–4 players share one raft and coordinate every run.",
           "href": "/modes/fart-together-online-multiplayer"
         },
@@ -182,19 +182,19 @@
           "value": "Physics Co-op"
         },
         {
-          "label": "Visits",
+          "label": "Players",
           "value": "2–4"
         },
         {
-          "label": "Favorites",
+          "label": "Mode",
           "value": "Online"
         },
         {
-          "label": "Total Skills",
+          "label": "Listed launch",
           "value": "Oct 29, 2026"
         },
         {
-          "label": "Level Cap",
+          "label": "Release stage",
           "value": "Early Access"
         }
       ],

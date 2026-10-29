@@ -109,12 +109,12 @@
         {
           "badge": "Novato",
           "title": "Guia para iniciantes",
-          "description": "Tudo o que você precisa, desde o primeiro login até dominar os fundamentos do combate e da progressão.",
+          "description": "Prepare seu grupo, compartilhe os controles da jangada e aprenda o básico da direção cooperativa.",
           "href": "/guide/fart-together-beginner-guide"
         },
         {
           "badge": "Atualizado",
-          "title": "Códigos Ativos",
+          "title": "Multijogador online",
           "description": "Como 2 a 4 jogadores compartilham uma jangada e coordenam cada corrida.",
           "href": "/modes/fart-together-online-multiplayer"
         },
@@ -182,19 +182,19 @@
           "value": "Cooperativa de Física"
         },
         {
-          "label": "Visitas",
+          "label": "Jogadores",
           "value": "2–4"
         },
         {
-          "label": "Favoritos",
+          "label": "Modo",
           "value": "On-line"
         },
         {
-          "label": "Habilidades totais",
+          "label": "Lançamento anunciado",
           "value": "29 de outubro de 2026"
         },
         {
-          "label": "Limite de nível",
+          "label": "Fase de lançamento",
           "value": "Acesso antecipado"
         }
       ],
