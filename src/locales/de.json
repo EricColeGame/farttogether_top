@@ -1,1 +1,451 @@
-{}
+{
+  "site": {
+    "name": "Fart Together Wiki",
+    "shortName": "Gemeinsam furzen",
+    "tagline": "Anleitungen für physikbasierte Koop-Partyspiele",
+    "description": "Ihr ultimativer „Fart Together“-Leitfaden! Entdecken Sie physikbasiertes Koop-Gameplay, Floßsteuerung, Multiplayer-Tipps, Systemanforderungen, Demodetails und Release-Informationen.",
+    "legalNotice": "Inoffizielles Fart Together-Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Heim",
+    "guide": "Führung",
+    "modes": "Modi",
+    "mechanics": "Mechanik",
+    "platforms": "Plattformen",
+    "pricing": "Preise",
+    "media": "Medien",
+    "community": "Gemeinschaft",
+    "toggleTheme": "Thema umschalten"
+  },
+  "guide": {
+    "overviewTitle": "Fart Together Leitfaden",
+    "overviewDescription": "Beginnen Sie mit dem Spielen von „Fart Together“ mit Einsteiger-Setup, Steuerung, Demo-Zugang, Remote-Play und Koop-Anleitungen für Solo-Übungen und Mehrspielermodus mit geteiltem Floß."
+  },
+  "modes": {
+    "overviewTitle": "Fart Together-Modi",
+    "overviewDescription": "Vergleichen Sie die lokalen Koop- und Online-Mehrspielermodi von „Fart Together“, die Spieleranzahl, die Crossplay-Verfügbarkeit und die besten Möglichkeiten, mit Freunden zu spielen."
+  },
+  "mechanics": {
+    "overviewTitle": "Fart Together Mechanik",
+    "overviewDescription": "Erfahren Sie mehr über die Floßsteuerung von „Fart Together“, den Furzantrieb, das Parkour-Timing, die Ziellinienrouten und die physikalischen Systeme hinter jedem Koop-Lauf."
+  },
+  "platforms": {
+    "overviewTitle": "Fart Together Plattformen",
+    "overviewDescription": "Finden Sie heraus, wo Sie „Fart Together“ auf Steam, PC, Mobilgeräten, iOS, Android und PS5 spielen können, mit plattformspezifischen Steuerelementen und Kompatibilitätsdetails."
+  },
+  "pricing": {
+    "overviewTitle": "Fart Together Preise",
+    "overviewDescription": "Überprüfen Sie die Preise für „Fart Together“, die Verfügbarkeit kostenloser Demos, die Editionen für „Steam“, den Veröffentlichungstermin und die Systemanforderungen, bevor Sie das Spiel herunterladen."
+  },
+  "media": {
+    "overviewTitle": "Fart Together Medien",
+    "overviewDescription": "Sehen Sie sich „Fart Together“-Trailer, Demo-Gameplay, Koop-Highlights und Speedrun-Läufe an und erfahren Sie, wie das Physik-Chaos in Aktion aussieht."
+  },
+  "community": {
+    "overviewTitle": "Fart Together Community",
+    "overviewDescription": "Treten Sie den Fart Together-Community-Bereichen auf Discord, Reddit, Twitch und YouTube bei, um Läufe zu teilen, Spieler zu finden und offizielle Updates zu verfolgen."
+  },
+  "home": {
+    "meta": {
+      "title": "Fart Together Wiki – Gameplay, Steuerung und Anleitungen",
+      "description": "Entdecken Sie das Fart Together-Gameplay, Multiplayer-Tipps, Steuerelemente, Systemanforderungen, Demo-Rezensionen, Release-Informationen und Anfängerleitfäden zum Spielen mit Freunden."
+    },
+    "hero": {
+      "eyebrow": "Lustiges, auf Physik basierendes Koop-Partyspiel",
+      "title": "Fart Together Wiki",
+      "description": "Fart Together ist ein urkomisches, physikbasiertes Koop-Spiel, bei dem 2–4 Spieler ein gemeinsames Floß mit Furzkraft steuern. Verbünde dich mit Freunden, meistere Bewegung und Timing, weiche Hindernissen aus und erkunde Anleitungen zu Gameplay, Steuerung, Systemanforderungen und Release-Updates.",
+      "stats": [
+        "2–4 Spieler",
+        "29. Okt. 2026 Early Access",
+        "89 % positive Demo-Bewertungen",
+        "Windows-PC"
+      ],
+      "primaryCta": "Auf Steam ansehen",
+      "secondaryCta": "Spielen Sie die kostenlose Demo auf Steam",
+      "tertiaryCta": "Steam Community",
+      "videoLabel": "Offizieller Demo-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Durchsuchen Sie alle Leitfäden",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Beginnen Sie hier",
+      "title": "Deine Fart Together-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Richten Sie eine stabile Verbindung ein, holen Sie sich die kostenlose Demo, wählen Sie Tastatur- oder Controller-Eingabe und erfahren Sie, wie sich zwei bis vier Spieler ein Floß teilen."
+        },
+        {
+          "number": "2",
+          "title": "Wie man spielt",
+          "description": "Koordinieren Sie Richtung, Timing und Gaskraft, während Ihr Team ein gemeinsames Floß durch physikbasierte Hindernisparcours steuert."
+        },
+        {
+          "number": "3",
+          "title": "Online-Multiplayer",
+          "description": "Verstehen Sie den bestätigten Online-Koop-Modus für 2 bis 4 Spieler, die Verbindungsanforderungen und warum synchronisierte Eingaben wichtiger sind als Gewalt."
+        },
+        {
+          "number": "4",
+          "title": "Furzmechanik",
+          "description": "Verwandeln Sie chaotische Gasstöße in kontrollierten Vortrieb, indem Sie den Schub synchronisieren, die Geschwindigkeit verringern und das Timing festlegen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Anfängerleitfaden",
+        "Mehrspieler",
+        "Plattformen",
+        "Veröffentlichungsdatum"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerleitfaden",
+          "description": "Alles, was Sie brauchen, von der ersten Anmeldung bis zur Beherrschung der Grundlagen des Kampfes und des Fortschritts.",
+          "href": "/guide/fart-together-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Wie sich 2–4 Spieler ein Floß teilen und jeden Lauf koordinieren.",
+          "href": "/modes/fart-together-online-multiplayer"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Furzmechanik",
+          "description": "Verwandeln Sie Richtung, Timing und Gasabgabe in eine kontrollierte Bewegung des Floßes.",
+          "href": "/mechanics/fart-together-fart-mechanics"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Kursstrategie",
+          "description": "Bewältigen Sie enge Passagen, sich bewegende Hindernisse und das Timing der Ziellinie.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line"
+        },
+        {
+          "badge": "Neu",
+          "title": "Parkour-Physik",
+          "description": "Verstehen Sie, warum das Lenken eines Floßes die wahre Herausforderung im Hindernisparcours ist.",
+          "href": "/mechanics/fart-together-parkour"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "PC-Anforderungen",
+          "description": "Überprüfen Sie die Mindestanforderungen, empfohlene Hardware, Speicher und DirectX 11.",
+          "href": "/pricing/fart-together-system-requirements"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Online-Koop",
+          "description": "Überprüfen Sie die bestätigten Setup- und Verbindungsanforderungen für 2–4 Spieler.",
+          "href": "/modes/fart-together-online-multiplayer"
+        },
+        {
+          "badge": "Neu",
+          "title": "Demo-Anleitung",
+          "description": "Installieren Sie die kostenlose Steam-Demo und üben Sie mit Ihrer Crew.",
+          "href": "/guide/fart-together-demo-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Veröffentlichungsdetails",
+          "description": "Verfolgen Sie den Startzeitpunkt für den Early Access und die geplanten Inhalte für die vollständige Veröffentlichung.",
+          "href": "/pricing/fart-together-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist „Fart Together“?",
+      "paragraphs": [
+        "Fart Together ist ein physikbasiertes Koop-Partyspiel von GamesMrkt. Zwei bis vier Spieler besetzen ein gemeinsames Floß und steuern es mit Furzkraft durch Hindernisparcours voller enger Passagen, scharfer Kurven und beweglicher Hindernisse. Die Herausforderung liegt in der Koordination: Jeder Input verändert Kraft, Richtung und Timing für die gesamte Crew.",
+        "Dieses Wiki organisiert die bestätigten Systeme des Spiels und Informationen zum Early-Access-Start in praktischen Leitfäden. Erfahren Sie, wie Sie eine Crew zusammenstellen, die gemeinsame Floßsteuerung meistern, die richtige Eingabemethode auswählen und sich auf die kostenlose Demo und die Steam Early Access-Veröffentlichung vorbereiten."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "GamesMrkt"
+        },
+        {
+          "label": "Plattform",
+          "value": "Windows-PC"
+        },
+        {
+          "label": "Genre",
+          "value": "Physik-Genossenschaft"
+        },
+        {
+          "label": "Besuche",
+          "value": "2–4"
+        },
+        {
+          "label": "Favoriten",
+          "value": "Online"
+        },
+        {
+          "label": "Gesamtkompetenzen",
+          "value": "29. Okt. 2026"
+        },
+        {
+          "label": "Level-Cap",
+          "value": "Früher Zugriff"
+        }
+      ],
+      "cta": "Entdecken Sie alle Leitfäden"
+    },
+    "explore": {
+      "title": "Entdecken Sie das Fart Together Wiki",
+      "description": "Beginnen Sie mit dem Anfängerpfad und beherrschen Sie dann die gemeinsame Floßphysik, Online-Koop, Kurse, Plattformdetails, Demozugang und Informationen zur Early Access-Veröffentlichung.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Fart Together Anfängerleitfaden",
+          "description": "Vergleichen Sie die kostenlose Steam-Demo mit Early Access, verfolgen Sie das bestätigte Startdatum und erfahren Sie, was für die Vollversion geplant ist.",
+          "href": "/guide/fart-together-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Laden Sie die kostenlose Demo herunter und bestätigen Sie Ihre stabile Breitbandverbindung."
+            },
+            {
+              "label": "2",
+              "detail": "Weisen Sie Tastatur- oder Controller-Eingaben zu und vereinbaren Sie einen Timing-Anrufer."
+            },
+            {
+              "label": "3",
+              "detail": "Üben Sie den synchronisierten Schub, bevor Sie durch enge Abschnitte beschleunigen."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Gemeinsam furzen Spielanleitung",
+          "description": "Lernen Sie die gesamte Koop-Runde kennen, von der Crew-Einrichtung und Eingabeauswahl bis hin zur Geschwindigkeitskontrolle, der gemeinsamen Richtung und der Wiederherstellung nach einer Explosion zum falschen Zeitpunkt.",
+          "href": "/guide/fart-together-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bilden Sie eine 2–4-Spieler-Online-Koop-Crew und nehmen Sie am Voice-Chat teil."
+            },
+            {
+              "label": "2",
+              "detail": "Wählen Sie den Nur-Tastatur-Modus oder einen Xbox- oder PlayStation-Controller."
+            },
+            {
+              "label": "3",
+              "detail": "Koordinieren Sie die Gaskraft, bremsen Sie vor scharfen Kurven ab und behandeln Sie jede Eingabe als Teamentscheidung."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Gemeinsam furzen Fähigkeitsstufen",
+          "description": "Bewerten Sie die Gewohnheiten, die reibungslose Floßmannschaften von chaotischen Fahrten unterscheiden, von synchronisierter Zeitmessung und Kursaufrufen bis hin zum Aufbau der Plattform.",
+          "href": "/mechanics/fart-together-fart-mechanics",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Synchronisierte Gasausgabe – gleichzeitige Eingaben halten das gemeinsame Floß in Betrieb"
+            },
+            {
+              "label": "A",
+              "detail": "Klare Kommunikation – ein Anrufer reduziert verspätete Reaktionen in engen Passagen"
+            },
+            {
+              "label": "B",
+              "detail": "Geschwindigkeitskontrolle – wenn man weiß, wann man langsamer fahren muss, wird ein Überschwingen verhindert"
+            },
+            {
+              "label": "C",
+              "detail": "Rohe Kraft – maximales Gas kann weder Timing noch Teamwork ersetzen"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Fart Together Kurse",
+          "description": "Entdecken Sie die Hindernisparcours-Strategie für gemeinsame Floßbewegungen, einschließlich enger Passagen, sich bewegender Hindernisse, Ziellinien-Timing und Speedrunning-Routen.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gefahren",
+              "detail": "Sich bewegende Hindernisse können das Floß aus dem Gleichgewicht bringen und verspätete Reaktionen bestrafen."
+            },
+            {
+              "label": "Linien",
+              "detail": "Vereinbaren Sie die Vorwärtsrichtung, bevor Sie enge Passagen oder scharfe Kurven betreten."
+            },
+            {
+              "label": "Beenden",
+              "detail": "Synchronisieren Sie das letzte Manöver, anstatt sich über einen Save in letzter Sekunde zu streiten."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Fart Together Plattformen",
+          "description": "Sehen Sie sich das bestätigte Windows-PC-Setup, die Online-Multiplayer-Anforderungen, die Controller-Unterstützung und die Aussagen der Steam-Liste zum Crossplay an.",
+          "href": "/modes/fart-together-crossplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plattform",
+              "detail": "Das Spiel wird über Steam für Windows-PC vertrieben."
+            },
+            {
+              "label": "Eingaben",
+              "detail": "Der Nur-Tastatur-Modus sowie Xbox- und PlayStation-Controller werden als unterstützt aufgeführt."
+            },
+            {
+              "label": "Online",
+              "detail": "Online-Koop erfordert eine stabile Internetverbindung; Crossplay ist nicht bestätigt."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Fart Together Systemanforderungen",
+          "description": "Überprüfen Sie die Mindest- und empfohlenen PC-Spezifikationen, Speicher, DirectX, Arbeitsspeicher und die Breitbandanforderung für Online-Koop.",
+          "href": "/pricing/fart-together-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Minimum",
+              "detail": "Core i5-8400 oder Ryzen 3 1200, 8 GB RAM, GTX 1050 Ti oder RX 560."
+            },
+            {
+              "label": "Optimal",
+              "detail": "Core i5-10400 oder Ryzen 5 3600, 16 GB RAM, GTX 1660 oder RX 590."
+            },
+            {
+              "label": "Lagerung",
+              "detail": "Reservieren Sie 4 GB, installieren Sie DirectX 11 und sorgen Sie für eine stabile Breitbandverbindung für den Koop-Modus."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fart Together Demo und Veröffentlichung",
+          "description": "Vergleichen Sie die kostenlose Steam-Demo mit Early Access, verfolgen Sie das bestätigte Startdatum und erfahren Sie, was für die Vollversion geplant ist.",
+          "href": "/pricing/fart-together-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Kostenloser Download – veröffentlicht am 8. Oktober 2026"
+            },
+            {
+              "label": "Früher Zugriff",
+              "detail": "Gelistet für den 29. Oktober 2026"
+            },
+            {
+              "label": "Vollversion",
+              "detail": "Weitere Kurse, Modi, Charaktere und Anpassungen geplant"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fart Together Lokale Genossenschaft",
+          "description": "Sehen Sie, was die Steam-Liste über Online-Koop, Split-Screen, lokales Spielen und zusätzliche Modi bestätigt, die GamesMrkt während des Early Access hinzufügen könnte.",
+          "href": "/modes/fart-together-local-coop",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bestätigt",
+              "detail": "Online-Koop ist der beworbene Modus für 2–4 Spieler."
+            },
+            {
+              "label": "Lokales Spielen",
+              "detail": "Auf Steam wird keine Split-Screen- oder Shared-Screen-Option erwähnt."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Der Entwickler kann während des Early Access weitere Modi und Inhalte hinzufügen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Fart Together.",
+      "items": [
+        {
+          "question": "Was ist „Fart Together“?",
+          "answer": "Fart Together ist ein physikbasiertes Online-Koop-Partyspiel von GamesMrkt. Zwei bis vier Spieler steuern ein gemeinsames Floß mit Furzkraft durch Hindernisparcours und koordinieren dabei Richtung, Timing und Gasabgabe."
+        },
+        {
+          "question": "Wie viele Spieler können „Fart Together“ spielen?",
+          "answer": "Der Steam-Eintrag bewirbt Online-Koop für 2–4 Spieler. Die Eingaben jedes Spielers wirken sich auf dasselbe Floß aus, daher sind Kommunikation und synchronisiertes Timing für das Erlebnis von zentraler Bedeutung."
+        },
+        {
+          "question": "Welche Plattformen unterstützen Fart Together?",
+          "answer": "Die verifizierte Plattform ist Windows-PC bis Steam. Nur-Tastatur-Eingabe und Xbox- oder PlayStation-Controller werden aufgeführt, während Crossplay- und Konsolenversionen nicht bestätigt sind."
+        },
+        {
+          "question": "Wann erscheint „Fart Together“?",
+          "answer": "Fart Together ist für die Steam Early Access-Veröffentlichung am 29. Oktober 2026 gelistet. Eine kostenlose Demo wurde am 8. Oktober 2026 auf Steam verfügbar."
+        },
+        {
+          "question": "Gibt es bei „Fart Together“ eine lokale Genossenschaft?",
+          "answer": "Die Steam-Auflistung wirbt für Online-Koop und erwähnt nicht das lokale Spielen mit geteiltem Bildschirm oder geteiltem Bildschirm. Für die Vollversion sind zusätzliche Kurse, Modi, Charaktere und Anpassungen geplant."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, gemeinsam Furz zu spielen?",
+      "description": "Verbünde dich mit zwei bis vier Freunden, steuere dein Floß mit Furzkraft und meistere die physikbasierte Koop-Herausforderung. Unsere kostenlosen Anleitungen behandeln Steuerung, Gameplay, Systemanforderungen und Release-Details.",
+      "primary": "Lesen Sie den Anfängerleitfaden",
+      "secondary": "Spielen Sie auf Steam"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Spielen Sie auf Roblox",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Heim",
+    "noGuidesAvailable": "Noch keine Anleitungen verfügbar. Schauen Sie bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Fart Together Wiki",
+    "about": "Fart Together Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub, der physikbasiertes Koop-Gameplay, Floßsteuerung, Multiplayer-Tipps, Systemanforderungen, Demodetails und Release-Informationen für neue und erfahrene Spieler gleichermaßen behandelt.",
+    "quickLinks": "Quicklinks",
+    "guides": "Führer",
+    "legal": "Legal",
+    "copyright": "2026 Fart Together Wiki. Nicht mit GamesMrkt oder Valve verbunden.",
+    "description": "Ein physikbasiertes Koop-Partyspiel für 2–4 Spieler. Steuern Sie ein gemeinsames Floß mit Furzkraft und lachen Sie durch das Chaos.",
+    "playGame": "Spielen Sie auf Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "GamesMrkt auf YouTube",
+    "vvBuilder": "Fart Together Demo",
+    "beginnerGuide": "Spielanleitung",
+    "raceGuides": "Steuerungshandbuch",
+    "bossGuides": "Systemanforderungen",
+    "buildGuide": "Veröffentlichung und Demo",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

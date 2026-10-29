@@ -1,1 +1,451 @@
-{}
+{
+  "site": {
+    "name": "Fart Together Wiki",
+    "shortName": "Fart Together",
+    "tagline": "Guías de juegos cooperativos basados ​​en la física",
+    "description": "¡Tu guía definitiva sobre Fart Together! Explora el juego cooperativo basado en la física, los controles de la balsa, los consejos para el modo multijugador, los requisitos del sistema, los detalles de la demostración y la información sobre el lanzamiento.",
+    "legalNotice": "Wiki no oficial para fans de Fart Together. Hecho por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Hogar",
+    "guide": "Guía",
+    "modes": "Modos",
+    "mechanics": "Mecánica",
+    "platforms": "Plataformas",
+    "pricing": "Precios",
+    "media": "Medios de comunicación",
+    "community": "Comunidad",
+    "toggleTheme": "Alternar tema"
+  },
+  "guide": {
+    "overviewTitle": "Guía Fart Together",
+    "overviewDescription": "Comienza a jugar Fart Together con configuración para principiantes, controles, acceso a la demostración, juego remoto y guías cooperativas para practicar en solitario y multijugador en balsa compartida."
+  },
+  "modes": {
+    "overviewTitle": "Modos Fart Together",
+    "overviewDescription": "Compara los modos cooperativo local y multijugador en línea de Fart Together, el número de jugadores, la disponibilidad de juego cruzado y las mejores formas de jugar con amigos."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánica de Fart Together",
+    "overviewDescription": "Aprende los controles de la balsa de Fart Together, la propulsión de los pedos, el cronometraje del parkour, las rutas de llegada y los sistemas físicos detrás de cada carrera cooperativa."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas Fart Together",
+    "overviewDescription": "Encuentra dónde jugar Fart Together en Steam, PC, dispositivos móviles, iOS, Android y PS5, con controles específicos de la plataforma y detalles de compatibilidad."
+  },
+  "pricing": {
+    "overviewTitle": "Precios de Fart Together",
+    "overviewDescription": "Consulta el precio de Fart Together, la disponibilidad de la demostración gratuita, las ediciones de Steam, el calendario de lanzamiento y los requisitos del sistema antes de descargar el juego."
+  },
+  "media": {
+    "overviewTitle": "Fart Together Medios",
+    "overviewDescription": "Mira los avances de Fart Together, el juego de demostración, los aspectos más destacados del modo cooperativo y las carreras rápidas mientras aprendes cómo se ve el caos físico en acción."
+  },
+  "community": {
+    "overviewTitle": "Comunidad Fart Together",
+    "overviewDescription": "Únase a los espacios comunitarios Fart Together en Discord, Reddit, Twitch y YouTube para compartir carreras, encontrar jugadores y seguir actualizaciones oficiales."
+  },
+  "home": {
+    "meta": {
+      "title": "Fart Together Wiki - Jugabilidad, controles y guías",
+      "description": "Explora la jugabilidad de Fart Together, consejos para multijugador, controles, requisitos del sistema, reseñas de demostraciones, información sobre lanzamientos y guías para principiantes para jugar con amigos."
+    },
+    "hero": {
+      "eyebrow": "Divertido juego de fiesta cooperativo basado en la física",
+      "title": "Fart Together Wiki",
+      "description": "Fart Together es un divertido juego cooperativo basado en la física en el que de 2 a 4 jugadores dirigen una balsa compartida usando el poder de los pedos. Forma equipo con amigos, domina el movimiento y el tiempo, esquiva obstáculos y explora guías de juego, controles, requisitos del sistema y actualizaciones de lanzamiento.",
+      "stats": [
+        "2 a 4 jugadores",
+        "29 de octubre de 2026 Acceso anticipado",
+        "89% de críticas positivas de demostración",
+        "PC con Windows"
+      ],
+      "primaryCta": "Ver en Steam",
+      "secondaryCta": "Juega la demostración gratuita en Steam",
+      "tertiaryCta": "Comunidad Steam",
+      "videoLabel": "Tráiler de demostración oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comience aquí",
+      "title": "Tu viaje Fart Together",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Configure una conexión estable, obtenga la demostración gratuita, elija la entrada del teclado o del controlador y aprenda cómo 2 a 4 jugadores comparten una balsa."
+        },
+        {
+          "number": "2",
+          "title": "Cómo jugar",
+          "description": "Coordina la dirección, el tiempo y la potencia del gas mientras tu equipo dirige una balsa compartida a través de carreras de obstáculos basadas en la física."
+        },
+        {
+          "number": "3",
+          "title": "Multijugador en línea",
+          "description": "Comprenda el modo cooperativo en línea confirmado de 2 a 4 jugadores, los requisitos de conexión y por qué la entrada sincronizada es más importante que la fuerza."
+        },
+        {
+          "number": "4",
+          "title": "Mecánica de pedos",
+          "description": "Convierta las caóticas ráfagas de gas en propulsión controlada sincronizando el empuje, reduciendo la velocidad y coordinando el tiempo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencia ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Multijugador",
+        "Plataformas",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar los conceptos básicos del combate y la progresión.",
+          "href": "/guide/fart-together-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Cómo 2 a 4 jugadores comparten una balsa y coordinan cada carrera.",
+          "href": "/modes/fart-together-online-multiplayer"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Mecánica de pedos",
+          "description": "Convierta la dirección, la sincronización y la salida de gas en un movimiento controlado de la balsa.",
+          "href": "/mechanics/fart-together-fart-mechanics"
+        },
+        {
+          "badge": "Popular",
+          "title": "Estrategia del curso",
+          "description": "Maneja pasajes estrechos, peligros en movimiento y sincronización en la línea de meta.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Física del parkour",
+          "description": "Comprenda por qué dirigir una balsa es el verdadero desafío de la carrera de obstáculos.",
+          "href": "/mechanics/fart-together-parkour"
+        },
+        {
+          "badge": "Popular",
+          "title": "Requisitos de PC",
+          "description": "Verifique las especificaciones mínimas, el hardware recomendado, el almacenamiento y DirectX 11.",
+          "href": "/pricing/fart-together-system-requirements"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cooperativo en línea",
+          "description": "Revise los requisitos confirmados de configuración y conexión de 2 a 4 jugadores.",
+          "href": "/modes/fart-together-online-multiplayer"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de demostración",
+          "description": "Instala la demostración gratuita de Steam y practica con tu equipo.",
+          "href": "/guide/fart-together-demo-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Detalles de lanzamiento",
+          "description": "Realice un seguimiento del calendario de lanzamiento del acceso anticipado y del contenido de lanzamiento completo planificado.",
+          "href": "/pricing/fart-together-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Fart Together?",
+      "paragraphs": [
+        "Fart Together es un juego de fiesta cooperativo basado en la física de GamesMrkt. De dos a cuatro jugadores ocupan una balsa compartida y usan el poder de los pedos para guiarla a través de pistas de obstáculos llenas de pasajes estrechos, curvas cerradas y peligros en movimiento. El desafío es la coordinación: cada acción cambia la fuerza, la dirección y el tiempo para toda la tripulación.",
+        "Esta wiki organiza los sistemas confirmados del juego y la información de lanzamiento de acceso temprano en guías prácticas. Aprenda cómo configurar una tripulación, dominar el control de balsa compartida, elegir el método de entrada correcto y prepararse para la demostración gratuita y el lanzamiento de acceso anticipado de Steam."
+      ],
+      "stats": [
+        {
+          "label": "Revelador",
+          "value": "JuegosMrkt"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC con Windows"
+        },
+        {
+          "label": "Género",
+          "value": "Cooperativa de física"
+        },
+        {
+          "label": "Visitas",
+          "value": "2–4"
+        },
+        {
+          "label": "Favoritos",
+          "value": "En línea"
+        },
+        {
+          "label": "Habilidades totales",
+          "value": "29 de octubre de 2026"
+        },
+        {
+          "label": "Límite de nivel",
+          "value": "Acceso temprano"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Wiki Fart Together",
+      "description": "Comience con el camino para principiantes, luego domine la física de la balsa compartida, el modo cooperativo en línea, los cursos, los detalles de la plataforma, el acceso a la demostración y la información de lanzamiento del acceso anticipado.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Fart Together",
+          "description": "Compare la demostración gratuita de Steam con el acceso anticipado, realice un seguimiento de la fecha de lanzamiento confirmada y comprenda lo que está planeado para la versión completa.",
+          "href": "/guide/fart-together-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Descargue la demostración gratuita y confirme su conexión de banda ancha estable."
+            },
+            {
+              "label": "2",
+              "detail": "Asigne la entrada del teclado o del controlador y acuerde el horario de la persona que llama."
+            },
+            {
+              "label": "3",
+              "detail": "Practica el empuje sincronizado antes de acelerar en secciones estrechas."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Fart Together Cómo jugar",
+          "description": "Conozca el circuito cooperativo completo, desde la configuración de la tripulación y la selección de entradas hasta el control de velocidad, la dirección compartida y la recuperación después de una explosión inoportuna.",
+          "href": "/guide/fart-together-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Forma un equipo cooperativo en línea de 2 a 4 jugadores y únete al chat de voz."
+            },
+            {
+              "label": "2",
+              "detail": "Elija el modo de solo teclado o un controlador Xbox o PlayStation."
+            },
+            {
+              "label": "3",
+              "detail": "Coordine la potencia del gas, reduzca la velocidad antes de curvas cerradas y trate cada entrada como una decisión de equipo."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Fart Together Niveles de habilidad",
+          "description": "Clasifique los hábitos que separan a las tripulaciones de balsas fluidas de las carreras caóticas, desde el cronometraje sincronizado y las llamadas de rumbo hasta la configuración de la plataforma.",
+          "href": "/mechanics/fart-together-fart-mechanics",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Salida de gas sincronizada: las entradas simultáneas mantienen en línea la balsa compartida"
+            },
+            {
+              "label": "A",
+              "detail": "Comunicación clara: una persona que llama reduce las reacciones tardías en pasajes estrechos"
+            },
+            {
+              "label": "B",
+              "detail": "Control de velocidad: saber cuándo reducir la velocidad evita sobrepasos"
+            },
+            {
+              "label": "do",
+              "detail": "Energía bruta: el máximo gas no puede reemplazar el tiempo o el trabajo en equipo"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Cursos Fart Together",
+          "description": "Explore la estrategia de carrera de obstáculos para el movimiento compartido de balsas, incluidos pasajes estrechos, peligros en movimiento, cronometraje de la línea de meta y rutas de carreras rápidas.",
+          "href": "/mechanics/fart-together-how-to-reach-the-finish-line",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Peligros",
+              "detail": "Los obstáculos en movimiento pueden desequilibrar la balsa y castigar las reacciones tardías."
+            },
+            {
+              "label": "Pauta",
+              "detail": "Acuerde la dirección de avance antes de entrar en pasajes estrechos o curvas cerradas."
+            },
+            {
+              "label": "Finalizar",
+              "detail": "Sincroniza la maniobra final en lugar de discutir sobre una salvación de último segundo."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Plataformas Fart Together",
+          "description": "Revise la configuración confirmada de PC con Windows, los requisitos del modo multijugador en línea, la compatibilidad con el controlador y lo que dice la lista de Steam sobre el juego cruzado.",
+          "href": "/modes/fart-together-crossplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plataforma",
+              "detail": "El juego se distribuye a través de Steam para PC con Windows."
+            },
+            {
+              "label": "Entradas",
+              "detail": "El modo de solo teclado más los controladores Xbox y PlayStation figuran como compatibles."
+            },
+            {
+              "label": "En línea",
+              "detail": "La cooperativa en línea requiere una conexión a Internet estable; El juego cruzado no está confirmado."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Fart Together Requisitos del sistema",
+          "description": "Verifique las especificaciones mínimas y recomendadas de PC, el almacenamiento, DirectX, la memoria y los requisitos de banda ancha para el modo cooperativo en línea.",
+          "href": "/pricing/fart-together-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mínimo",
+              "detail": "Core i5-8400 o Ryzen 3 1200, 8 GB de RAM, GTX 1050 Ti o RX 560."
+            },
+            {
+              "label": "Óptimo",
+              "detail": "Core i5-10400 o Ryzen 5 3600, 16 GB de RAM, GTX 1660 o RX 590."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Reserve 4 GB, instale DirectX 11 y mantenga una conexión de banda ancha estable para el modo cooperativo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Demostración y lanzamiento de Fart Together",
+          "description": "Compare la demostración gratuita de Steam con el acceso anticipado, realice un seguimiento de la fecha de lanzamiento confirmada y comprenda lo que está planeado para la versión completa.",
+          "href": "/pricing/fart-together-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Manifestación",
+              "detail": "Descarga gratuita: publicada el 8 de octubre de 2026"
+            },
+            {
+              "label": "Acceso temprano",
+              "detail": "Listado para el 29 de octubre de 2026"
+            },
+            {
+              "label": "Versión completa",
+              "detail": "Más cursos, modos, personajes y personalizaciones planeadas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fart Together Cooperativa local",
+          "description": "Vea lo que confirma la lista de Steam sobre el modo cooperativo en línea, la pantalla dividida, el juego local y los modos adicionales que GamesMrkt puede agregar durante el acceso anticipado.",
+          "href": "/modes/fart-together-local-coop",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Confirmado",
+              "detail": "El modo cooperativo en línea es el modo anunciado para 2 a 4 jugadores."
+            },
+            {
+              "label": "Juego local",
+              "detail": "No se menciona ninguna opción de pantalla dividida o pantalla compartida en Steam."
+            },
+            {
+              "label": "Hoja de ruta",
+              "detail": "El desarrollador puede agregar más modos y contenido durante el acceso anticipado."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Fart Together.",
+      "items": [
+        {
+          "question": "¿Qué es Fart Together?",
+          "answer": "Fart Together es un juego de fiesta cooperativo en línea basado en la física de GamesMrkt. De dos a cuatro jugadores dirigen una balsa compartida con potencia de pedos a través de pistas de obstáculos, coordinando la dirección, el tiempo y la salida de gas."
+        },
+        {
+          "question": "¿Cuántos jugadores pueden jugar Fart Together?",
+          "answer": "La lista de Steam anuncia un modo cooperativo en línea para 2 a 4 jugadores. Las aportaciones de cada jugador afectan a la misma balsa, por lo que la comunicación y el tiempo sincronizado son fundamentales para la experiencia."
+        },
+        {
+          "question": "¿Qué plataformas admiten Fart Together?",
+          "answer": "La plataforma verificada es PC con Windows a través de Steam. Se enumeran la entrada de solo teclado y los controladores Xbox o PlayStation, mientras que las versiones de crossplay y consola no están confirmadas."
+        },
+        {
+          "question": "¿Cuándo se lanza Fart Together?",
+          "answer": "Fart Together figura para su lanzamiento en Steam Early Access el 29 de octubre de 2026. Una demostración gratuita estuvo disponible en Steam el 8 de octubre de 2026."
+        },
+        {
+          "question": "¿Firt Together tiene cooperativa local?",
+          "answer": "La lista de Steam anuncia el modo cooperativo en línea y no menciona el juego local en pantalla dividida o compartida. Se planean cursos, modos, personajes y personalizaciones adicionales para el lanzamiento completo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para jugar Fart Together?",
+      "description": "Forma equipo con 2 a 4 amigos, dirige tu balsa con el poder de los pedos y domina el desafío cooperativo basado en la física. Nuestras guías gratuitas cubren controles, jugabilidad, requisitos del sistema y detalles de lanzamiento.",
+      "primary": "Lea la guía para principiantes",
+      "secondary": "Juega en Steam"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenido",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitar ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Hogar",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Fart Together Wiki",
+    "about": "Fart Together Wiki es un centro de guías independiente creado por fans que cubre juegos cooperativos basados ​​en la física, controles de balsa, consejos multijugador, requisitos del sistema, detalles de la demostración e información de lanzamiento para jugadores nuevos y veteranos por igual.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki Fart Together. No afiliado a GamesMrkt ni a Valve.",
+    "description": "Un juego de grupo cooperativo basado en la física para 2 a 4 jugadores. Dirige una balsa compartida con poder de tirar pedos y ríe en medio del caos.",
+    "playGame": "Juega en Steam",
+    "officialDiscord": "Comunidad Steam",
+    "officialYoutube": "GamesMrkt en YouTube",
+    "vvBuilder": "Demostración de Fart Together",
+    "beginnerGuide": "Guía de juego",
+    "raceGuides": "Guía de controles",
+    "bossGuides": "Requisitos del sistema",
+    "buildGuide": "Lanzamiento y demostración",
+    "privacyPolicy": "política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
