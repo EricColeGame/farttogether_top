@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Fart Together Wiki",
+  shortName: "Fart Together",
+  logoText: "F",
+  tagline: "Physics-Based Co-op Party Game Guides",
+  description: "Your ultimate Fart Together guide! Explore physics-based co-op gameplay, raft controls, multiplayer tips, system requirements, demo details, and release information.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://farttogether.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://farttogether.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5117550/Fart_Together/",
+  heroVideoId: "N6aVfoC7Dss", // Fart Together official demo trailer by GamesMrkt
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@GamesMrkt",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
